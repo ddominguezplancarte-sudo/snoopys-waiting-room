@@ -2,7 +2,7 @@
   "name": "snoopys-waiting-room",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://YOUR-USERNAME.github.io/snoopys-waiting-room",
+  "homepage": "https://ddominguezplancarte-sudo.github.io/snoopys-waiting-room",
   "type": "module",
   "scripts": {
     "dev": "vite",
