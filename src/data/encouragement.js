@@ -1,0 +1,17 @@
+export const encouragements = [
+  { message: "You only need the next step.", author: "💛" },
+  { message: "Waiting is not failing.", author: "🌻" },
+  { message: "You are surrounded by people who love you.", author: "🐾" },
+  { message: "Questions are welcome here.", author: "📝" },
+  { message: "Today is enough.", author: "☁️" },
+  { message: "Courage isn't the absence of fear. It's showing up anyway.", author: "🌱" },
+  { message: "Every hard day has an end.", author: "🌅" },
+  { message: "You don't have to figure everything out right now.", author: "💛" },
+  { message: "Rest is not giving up. Rest is how we keep going.", author: "🐶" },
+  { message: "The people who love you are paying attention.", author: "🤍" },
+  { message: "Small steps still move you forward.", author: "🌻" },
+  { message: "You have gotten through hard things before.", author: "⭐" },
+  { message: "It's okay to feel scared and hopeful at the same time.", author: "🌈" },
+  { message: "Asking for help is its own kind of strength.", author: "🐾" },
+  { message: "One appointment at a time. One day at a time.", author: "📅" },
+];
